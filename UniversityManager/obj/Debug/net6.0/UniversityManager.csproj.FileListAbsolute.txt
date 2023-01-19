@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\bin\Debug\net6.0\UniversityManager.exe
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\bin\Debug\net6.0\UniversityManager.deps.json
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\bin\Debug\net6.0\UniversityManager.runtimeconfig.json
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\bin\Debug\net6.0\UniversityManager.dll
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\bin\Debug\net6.0\UniversityManager.pdb
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\obj\Debug\net6.0\UniversityManager.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\obj\Debug\net6.0\UniversityManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\obj\Debug\net6.0\UniversityManager.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\obj\Debug\net6.0\UniversityManager.AssemblyInfo.cs
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\obj\Debug\net6.0\UniversityManager.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\obj\Debug\net6.0\UniversityManager.dll
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\obj\Debug\net6.0\refint\UniversityManager.dll
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\obj\Debug\net6.0\UniversityManager.pdb
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\obj\Debug\net6.0\UniversityManager.genruntimeconfig.cache
+C:\Users\hp\Documents\C# Doings\UniversityManager\UniversityManager\obj\Debug\net6.0\ref\UniversityManager.dll
